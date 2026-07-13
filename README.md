@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**DaaniMM/DaaniMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Web Developer from Málaga, Spain.
 
-Here are some ideas to get you started:
+I recently finished DAW and I’m currently building my portfolio around web applications, immersive interfaces and AI-assisted projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured projects
+
+- **Oxphyre** — 3D virtual tour platform for local businesses.
+- **KINEXT** — AI-assisted fitness platform with biomechanical analysis and trainer marketplace.
+
+### Currently learning
+
+JavaScript, React, Next.js, TypeScript, Three.js and full-stack web development.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/danielmartinezmartos)
