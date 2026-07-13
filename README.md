@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Dani 👋
 
 Junior Web Developer from Málaga, Spain.
 
