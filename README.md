@@ -37,25 +37,32 @@ I’m especially interested in projects that combine **web development, product 
 
 ## 🧬 Character Traits
 
-```txt
-Origin Story:
-Junior web developer from Málaga, Spain. Recently finished DAW and currently focused on strengthening fundamentals while building real projects.
-
-Primary Style:
-Visual web development, clean interfaces, motion, immersive experiences, Three.js, 3D environments and creative websites.
-
-Secondary Style:
-Backend logic and application structure: routes, controllers, APIs, databases, authentication, permissions and security.
-
-Long-Term Build:
-Grow into a strong full-stack developer, able to understand both frontend and backend deeply enough to read, build, debug and improve complete applications.
-
-Special Interests:
-AI, automation, cybersecurity applied to web apps, immersive web experiences and future mobile development.
-
-Current Objective:
-Keep learning, build solid foundations and gain real experience in a development team.
-```
+<table>
+<tr>
+<td width="28%"><strong>Origin Story</strong></td>
+<td>Junior web developer from Málaga, Spain. Recently finished DAW and currently focused on strengthening fundamentals while building real projects.</td>
+</tr>
+<tr>
+<td><strong>Primary Style</strong></td>
+<td>Visual web development, clean interfaces, motion, immersive experiences, Three.js, 3D environments and creative websites.</td>
+</tr>
+<tr>
+<td><strong>Secondary Style</strong></td>
+<td>Backend logic and application structure: routes, controllers, APIs, databases, authentication, permissions and security.</td>
+</tr>
+<tr>
+<td><strong>Long-Term Build</strong></td>
+<td>Grow into a strong full-stack developer, able to understand both frontend and backend deeply enough to read, build, debug and improve complete applications.</td>
+</tr>
+<tr>
+<td><strong>Special Interests</strong></td>
+<td>AI, automation, cybersecurity applied to web apps, immersive web experiences and future mobile development.</td>
+</tr>
+<tr>
+<td><strong>Current Objective</strong></td>
+<td>Keep learning, build solid foundations and gain real experience in a development team.</td>
+</tr>
+</table>
 
 ---
 
