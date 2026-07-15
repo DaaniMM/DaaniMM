@@ -18,7 +18,7 @@
 
 ```txt
 ╔══════════════════════════════════════════════════════════════════════╗
-║                         PLAYER PROFILE                              ║
+║                         PLAYER PROFILE                               ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  Name        Daniel Martínez Martos                                  ║
 ║  Class       Junior Web Developer                                    ║
